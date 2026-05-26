@@ -21,8 +21,6 @@ I work the full stack — schema design, ingestion pipelines, signal logic, API 
 ### What I'm building right now
 
 - **Kite Options Analytics** *(private)* — TimescaleDB schema for raw tick collection (option / futures / spot / VIX), forward-blind signal engine using OI deltas, volume absorption, futures OI classification. React + Recharts frontend with GEX page, Dealer Pressure, Bubble Map, FII/DII flow, GEX Regime views.
-- **PromptCompiler** — VS Code extension landing page with an interactive prompt-compression demo. *(public — pin it)*
-- **Flask + Redis auth patterns** — exploring HttpOnly cookies + token blacklisting for a session-heavy app.
 
 ### Private Projects
 

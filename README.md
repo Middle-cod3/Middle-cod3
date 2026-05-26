@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Ayan 👋</h1>
+<h1 align="center">Hey, I'm Dibyajyoti rana 👋</h1>
 <p align="center">
-  <em>Full-stack engineer · Python · React · TimescaleDB · trading infra nerd</em>
+  <em>Full-stack engineer · DevOps · Python · React · TimescaleDB · trading infra nerd</em>
 </p>
 
 <p align="center">
@@ -31,6 +31,17 @@ Some of my larger projects are currently private repositories:
 
 These projects showcase my experience in building complex, data-intensive systems and my ability to architect solutions at scale. If you're interested in learning more about these projects, feel free to reach out.
 
+### DevOps Experience
+
+I have hands-on experience with various aspects of DevOps:
+
+- Deploying ERP-based projects on Linux servers
+- Configuring and securing VPS (Virtual Private Servers) 
+- Managing domains and subdomains
+- Familiarity with Linux server administration
+
+While I haven't worked extensively with cloud platforms like Azure or GCP, I'm confident in my ability to quickly learn and adapt to new technologies.
+
 ### Stack
 
 <p>
@@ -44,6 +55,7 @@ These projects showcase my experience in building complex, data-intensive system
   <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=black">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 </p>
 
 ### Open to
